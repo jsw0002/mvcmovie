@@ -53,3 +53,7 @@ C:\Users\Jordan\Desktop\1150\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Micro
 C:\Users\Jordan\Desktop\1150\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
 C:\Users\Jordan\Desktop\1150\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 C:\Users\Jordan\Desktop\1150\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\Jordan\Desktop\1150\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+C:\Users\Jordan\Desktop\1150\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+C:\Users\Jordan\Desktop\1150\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+C:\Users\Jordan\Desktop\1150\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
